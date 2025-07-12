@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "ESTUDIO-01-INSUF-CARDIACA",
+    "edad_min": 18,
+    "edad_max": 75,
+    "diagnostico_requerido": "insuficiencia cardíaca",
+    "tiempo_desde_diagnostico_min_meses": 12,
+    "inclusion_sintomas": ["disnea", "fatiga"],
+    "exclusion": ["insuficiencia renal grave", "embarazo"]
+  },
+  {
+    "nombre": "ESTUDIO-02-DIABETES",
+    "edad_min": 40,
+    "edad_max": 80,
+    "diagnostico_requerido": "diabetes tipo 2",
+    "tiempo_desde_diagnostico_min_meses": 6,
+    "inclusion_sintomas": ["hiperglucemia"],
+    "exclusion": ["amputación previa", "enfermedad hepática terminal"]
+  }
+]
